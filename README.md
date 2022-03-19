@@ -2,8 +2,6 @@
 
 Aplikasi Invoice Generator allows you quickly make invoices and save them as PDF. [https://invoicegeneratorapps.netlify.app/](https://invoicegeneratorapps.netlify.app/)
 
-![react-invoice-generator](https://invoicegeneratorapps.netlify.app/)
-
 ## Available Scripts
 
 In the project directory, you can run:
